@@ -17,3 +17,6 @@ At 641 px the page will have:
 	Column 3 - grey
 	Column 4 - brown
 The site should not expand 1140 px
+
+# SIDE NOTES
+I changed the required blue, purple, grey and brown to lighter pastel colours :-)
